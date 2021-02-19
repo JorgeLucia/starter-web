@@ -1,6 +1,7 @@
 # Starter Web Repo
 This repository is for showing how Git and GitHub work
-This a sample website project for showing how to use Git and Github together
+This a sample website project for showing how to use Git and Github together.
+Add al ine for reabsing eample
 
 ## Introduction
 This example is to show different parts of GIt repository and various commands using a web project

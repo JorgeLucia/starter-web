@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Jorge Lucia 	jorge.lucia@mail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
